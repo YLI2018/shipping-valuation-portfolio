@@ -2,6 +2,8 @@
 
 PhD in finance (dry bulk trade networks, freight price discovery), complemented by 14 years of analytical experience across energy markets, trading, regulatory economics and insurance risk.
 
+Published research: [Trade dynamics of the global dry bulk shipping network](https://doi.org/10.1016/j.tre.2025.104597), Transportation Research Part E (2026).
+
 Contact: [LinkedIn](https://www.linkedin.com/in/yan-li-649b5a33/) · [yanli.kaapa@gmail.com](mailto:yanli.kaapa@gmail.com)
 
 This portfolio follows one question from start to finish: **what is a ship worth, and should we buy it at this price?**
