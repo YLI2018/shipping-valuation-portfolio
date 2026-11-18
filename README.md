@@ -39,6 +39,12 @@ The model works out the **maximum bid: $22.2m**. That is the highest price that 
 
 Method: [M3 acquisition and finance](https://github.com/YLI2018/shipping-vessel-valuation/blob/main/docs/methodology/m3_acquisition.md)
 
+## 4 · Daily market watch
+
+Shipping news collected twice a day, de-duplicated and summarised by topic, ending with a market view on what it means for vessel values and earnings. Same data discipline as the sales register.
+
+![Market view](images/market_view.png)
+
 Ship names in the pictures are anonymised. Values are model outputs from a personal portfolio project, not investment advice.
 
 **Contact:** [LinkedIn](https://www.linkedin.com/in/yan-li-649b5a33/) · [yanli.kaapa@gmail.com](mailto:yanli.kaapa@gmail.com)
