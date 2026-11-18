@@ -5,7 +5,7 @@ PhD in finance (dry bulk trade networks, freight price discovery) · 14 years as
 This portfolio follows one question from start to finish: **what is a ship worth, and should we buy it at this price?**
 It has three parts, in the order the work happens.
 
-**[Open the full interactive dashboard](https://yli2018.github.io/YLI2018/dashboard.html)**: every page, every number, in your browser.
+**[Open the full interactive dashboard](https://yli2018.github.io/shipping-valuation-portfolio/dashboard.html)**: every page, every number, in your browser.
 
 ---
 
