@@ -5,6 +5,8 @@ PhD in finance (dry bulk trade networks, freight price discovery) · 14 years as
 This portfolio follows one question from start to finish: **what is a ship worth, and should we buy it at this price?**
 It has three parts, in the order the work happens.
 
+**[Open the full interactive dashboard](https://yli2018.github.io/YLI2018/dashboard.html)**: every page, every number, in your browser.
+
 ---
 
 ## 1 · Automation: broker reports to a sales database
@@ -25,7 +27,7 @@ Example: a 14-year-old MR product tanker is worth **$29.7m**, from 43 comparable
 
 ![Valuation results](images/valuation.png)
 
-Code and method: [shipping-vessel-valuation](https://github.com/YLI2018/shipping-vessel-valuation)
+Method: [M1 comparable sales](https://github.com/YLI2018/shipping-vessel-valuation/blob/main/docs/methodology/m1_age_curve.md) · [M2 earnings value (DCF)](https://github.com/YLI2018/shipping-vessel-valuation/blob/main/docs/methodology/m2_dcf.md)
 
 ---
 
