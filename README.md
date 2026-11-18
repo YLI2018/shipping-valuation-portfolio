@@ -1,6 +1,6 @@
 # Yan Li · Shipping valuation and investment
 
-PhD in finance (dry bulk trade networks, freight price discovery) · 14 years as an analyst in dry bulk shipping and ship finance.
+PhD in finance (dry bulk trade networks, freight price discovery), complemented by 14 years of analytical experience across energy markets, trading, regulatory economics and insurance risk.
 
 Contact: [LinkedIn](https://www.linkedin.com/in/yan-li-649b5a33/) · [yanli.kaapa@gmail.com](mailto:yanli.kaapa@gmail.com)
 
