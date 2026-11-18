@@ -7,8 +7,6 @@ It has three parts, in the order the work happens.
 
 **[Open the full interactive dashboard](https://yli2018.github.io/shipping-valuation-portfolio/dashboard.html)**: every page, every number, in your browser.
 
----
-
 ## 1 · Automation: broker reports to a sales database
 
 Weekly broker reports are read, checked by me, and stored as a clean database of ship sales (593 sales so far).
@@ -17,8 +15,6 @@ Each step is a small project with its own code, tests and documents.
 ![Automation flow](images/automation_flow.png)
 
 Code: [sales-register](https://github.com/YLI2018/sales-register)
-
----
 
 ## 2 · Valuation: what the ship is worth
 
@@ -29,8 +25,6 @@ Example: a 14-year-old MR product tanker is worth **$29.7m**, from 43 comparable
 
 Method: [M1 comparable sales](https://github.com/YLI2018/shipping-vessel-valuation/blob/main/docs/methodology/m1_age_curve.md) · [M2 earnings value (DCF)](https://github.com/YLI2018/shipping-vessel-valuation/blob/main/docs/methodology/m2_dcf.md)
 
----
-
 ## 3 · Investment decision: the most we should pay
 
 The same ship as a purchase: time charter income, a 60% bank loan, and a sale after 5 years.
@@ -40,7 +34,5 @@ The model works out the **maximum bid: $22.2m**. That is the highest price that 
 ![Acquisition and finance](images/investment.png)
 
 Method: [M3 acquisition and finance](https://github.com/YLI2018/shipping-vessel-valuation/blob/main/docs/methodology/m3_acquisition.md)
-
----
 
 Ship names in the pictures are anonymised. Values are model outputs from a personal portfolio project, not investment advice.
