@@ -2,6 +2,8 @@
 
 PhD in finance (dry bulk trade networks, freight price discovery) · 14 years as an analyst in dry bulk shipping and ship finance.
 
+Contact: [LinkedIn](https://www.linkedin.com/in/yan-li-649b5a33/) · [yanli.kaapa@gmail.com](mailto:yanli.kaapa@gmail.com)
+
 This portfolio follows one question from start to finish: **what is a ship worth, and should we buy it at this price?**
 It has three parts, in the order the work happens.
 
@@ -36,3 +38,5 @@ The model works out the **maximum bid: $22.2m**. That is the highest price that 
 Method: [M3 acquisition and finance](https://github.com/YLI2018/shipping-vessel-valuation/blob/main/docs/methodology/m3_acquisition.md)
 
 Ship names in the pictures are anonymised. Values are model outputs from a personal portfolio project, not investment advice.
+
+**Contact:** [LinkedIn](https://www.linkedin.com/in/yan-li-649b5a33/) · [yanli.kaapa@gmail.com](mailto:yanli.kaapa@gmail.com)
