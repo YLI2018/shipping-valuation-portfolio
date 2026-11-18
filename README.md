@@ -12,7 +12,7 @@ It has three parts, in the order the work happens.
 Weekly broker reports are read, checked by me, and stored as a clean database of ship sales (593 sales so far).
 Each step is a small project with its own code, tests and documents.
 
-<br>
+<br><br>
 
 ![Automation flow](images/automation_flow.png)
 
