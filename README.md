@@ -1,6 +1,6 @@
 # Yan Li · Shipping valuation and investment
 
-PhD in finance (dry bulk trade networks, freight price discovery), complemented by 14 years of analytical experience across energy markets, trading, regulatory economics and insurance risk.
+PhD in finance (dry bulk trade networks, freight price discovery), with experience across energy markets, trading, regulatory economics and insurance risk.
 
 Published research: [Trade dynamics of the global dry bulk shipping network](https://doi.org/10.1016/j.tre.2025.104597), Transportation Research Part E (2026).
 
