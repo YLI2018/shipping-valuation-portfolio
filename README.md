@@ -6,10 +6,10 @@ Published research: [Trade dynamics of the global dry bulk shipping network](htt
 
 Contact: [LinkedIn](https://www.linkedin.com/in/yan-li-649b5a33/) · [yanli.kaapa@gmail.com](mailto:yanli.kaapa@gmail.com)
 
-This portfolio follows one question from start to finish: **what is a ship worth, and should we buy it at this price?**
-It has three parts, in the order the work happens.
+This portfolio answers one question: **what is a ship worth, and should we buy it at this price?**
+Three steps answer it: build a database of ship sales, value the ship, then set the most we should pay. Alongside them, the daily market watch keeps up with the latest shipping news that affects trade and ship finance.
 
-**[Open the full interactive dashboard](https://yli2018.github.io/shipping-valuation-portfolio/dashboard.html)**: every page, every number, in your browser.
+**[Open the interactive dashboard](https://yli2018.github.io/shipping-valuation-portfolio/dashboard.html)** to see all the results and charts.
 
 ## 1 · Automation: broker reports to a sales database
 
