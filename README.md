@@ -27,7 +27,7 @@ Example: a 14-year-old MR product tanker is worth **$29.7m**, from 43 comparable
 
 ![Valuation results](images/valuation.png)
 
-Method: [M1 comparable sales](https://github.com/YLI2018/shipping-vessel-valuation/blob/main/docs/methodology/m1_age_curve.md) · [M2 earnings value (DCF)](https://github.com/YLI2018/shipping-vessel-valuation/blob/main/docs/methodology/m2_dcf.md)
+Methods, code and data: **[shipping-vessel-valuation](https://github.com/YLI2018/shipping-vessel-valuation)** (M1, M1+ and M2)
 
 ## 3 · Investment decision: the most we should pay
 
