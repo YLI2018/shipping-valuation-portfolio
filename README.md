@@ -18,7 +18,7 @@ Each step is a small project with its own code, tests and documents.
 
 ![Automation flow](images/automation_flow.png)
 
-Code: [sales-register](https://github.com/YLI2018/sales-register)
+Methods, code and data: **[sales-register](https://github.com/YLI2018/sales-register)**
 
 ## 2 · Valuation: what the ship is worth
 
@@ -37,7 +37,7 @@ The model works out the **maximum bid: $22.2m**. That is the highest price that 
 
 ![Acquisition and finance](images/investment.png)
 
-Method: [M3 acquisition and finance](https://github.com/YLI2018/shipping-vessel-valuation/blob/main/docs/methodology/m3_acquisition.md)
+Methods, code and data: **[M3 acquisition and finance](https://github.com/YLI2018/shipping-vessel-valuation/blob/main/docs/methodology/m3_acquisition.md)**
 
 Ship names in the pictures are anonymised. Values are model outputs from a personal portfolio project, not investment advice.
 
